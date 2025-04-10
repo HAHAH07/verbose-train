@@ -2,5 +2,5 @@
 
 void Fun_print(string str)
 {
-	cout << str;
+	cout << str << endl;
 }
